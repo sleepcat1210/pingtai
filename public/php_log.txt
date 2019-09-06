@@ -1,0 +1,13 @@
+'<xml><ToUserName><![CDATA[gh_5b220abff3b0]]></ToUserName>
+<FromUserName><![CDATA[oJZLuwdeKBfzmQHxNR1-EEqqjRz8]]></FromUserName>
+<CreateTime>1567418557</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[l]]></Content>
+<MsgId>22440039092201307</MsgId>
+</xml>''<xml><ToUserName><![CDATA[gh_5b220abff3b0]]></ToUserName>
+<FromUserName><![CDATA[oJZLuwdeKBfzmQHxNR1-EEqqjRz8]]></FromUserName>
+<CreateTime>1567418563</CreateTime>
+<MsgType><![CDATA[text]]></MsgType>
+<Content><![CDATA[hello]]></Content>
+<MsgId>22440038940043996</MsgId>
+</xml>'
